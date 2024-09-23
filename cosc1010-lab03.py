@@ -42,6 +42,8 @@ states.append("Washington")
 states.append("Oregon")
 states.append("California")
 print(states)
+# I could have done this section all at once using the extend method which would have saved a line of code, but i really didnt want to initialize another list.
+
 #Again using the specific syntax mentioned in class overwrite the second to last element to be Maine, printing the list 
 
 states[-2] = "Maine"
