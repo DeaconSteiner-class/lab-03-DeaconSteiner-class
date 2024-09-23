@@ -38,8 +38,11 @@ print(f"{states[1].upper()} is south of {states[0].upper()}")
 print("Part Two------------------------------------------------------------------------")
 #Append the following states to your list: Washington, Oregon, California and print your list
 
-for state in states:
-    print(state)
+states.append("Washington")
+states.append("Oregon")
+states.append("California")
+
+print(states)
 
 #Again using the specific syntax mentioned in class overwrite the second to last element to be Maine, printing the list 
 
