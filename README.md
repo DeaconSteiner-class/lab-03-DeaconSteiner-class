@@ -7,6 +7,4 @@
 * example
 * example
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+# My github had a stroke when I accidentally pushed some stuff from the wrong account causing a slight headache, but pulling the incorrect fork and reverting the changes fixed the problems. 
